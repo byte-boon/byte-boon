@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @byte-boon A Software company
+- 👋 Hi, @byte-boon A Software company
 - 👀 We are interested in Fun projects
 - 📫 How to reach Us contact@byteboon.com
 - ⚡ Fun fact: We develop mobile , web and server based apps
